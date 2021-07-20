@@ -1,4 +1,4 @@
- Hi there, I'm Ashit👋 with a growth-minded Data Scientist with strong technical skills in Python, Machine Learning, NLP, Deep Learning and over five years of experience in telecom and health insurance domain to help business grow and add value.
+ Hi there, I'm Ashit with a growth-minded Data Scientist with strong technical skills in Python, Machine Learning, NLP, Deep Learning and over five years of experience in telecom and health insurance domain to help business grow and add value.
 
 
 <!--
