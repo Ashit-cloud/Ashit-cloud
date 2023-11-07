@@ -5,17 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashit-cloud" alt="ashit-cloud" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@ashit_debdas" target="blank"><img src="https://img.shields.io/twitter/follow/@ashit_debdas?logo=twitter&style=for-the-badge" alt="@ashit_debdas" /></a> </p>
 
 - 🌱 I’m currently learning **GenAi, LLM**
 
-- 👨‍💻 All of my projects are available at [on my github](on my github)
+- 👨‍💻 All of my projects are available at [my github](my github)
 
 - 📫 How to reach me **Through Linked give bellow link**
 
+- ⚡ Fun fact **I think, I know nothing**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@ashit_debdas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ashit_debdas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/ashitdebdas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ashitdebdas" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/user:13690071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:13690071" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
